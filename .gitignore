@@ -4,3 +4,5 @@ vendor
 .elasticbeanstalk/
 Dockerrun.local.json
 release/
+
+.idea/workspace.xml
